@@ -13,7 +13,7 @@ public class DataPizza {
             {"Tuna Melt","Irisan daging ikan tuna, butiran jagung, saus mayonnaise.","https://static.phdvasia.com/sg1/menu/single/desktop_thumbnail_9f78d3d7-cda3-4433-b5e1-7b6f6fb0e9b7.png"},
             {"Splitza","Dua topping pizza pilihan dalam satu loyang pizza.","https://static.phdvasia.com/sg1/menu/single/desktop_thumbnail_9ac629cd-e950-4ca9-8b60-b704a624d740.png"},
             {"Frankfurter BBQ","Sosis sapi Frankfurter, potongan daging sapi, honey BBQ, mustard, keju Mozarella.","https://static.phdvasia.com/sg1/menu/single/desktop_thumbnail_d320853b-2be1-4c94-a361-a384dad09119.png"},
-            {"American Favourite","Pepperoni sapi, daging sapi cincang, jamur.","https://static.phdvasia.com/sg1/menu/single/desktop_thumbnail_6e0ead56-64e9-4b8b-afa5-e1d95d84bf44.pngD"},
+            {"American Favourite","Pepperoni sapi, daging sapi cincang, jamur.","https://static.phdvasia.com/sg1/menu/single/desktop_thumbnail_6e0ead56-64e9-4b8b-afa5-e1d95d84bf44.png"},
     };
     public static ArrayList<Pizza_Menu> getListPizza() {
         Pizza_Menu pizza = null;

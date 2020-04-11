@@ -67,3 +67,4 @@ public class PizzaAdapter extends RecyclerView.Adapter<PizzaAdapter.CardViewView
             tRemarks = (TextView) itemView.findViewById(R.id.tv_item_remarks);
         }
     }
+}
